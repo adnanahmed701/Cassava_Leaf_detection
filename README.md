@@ -1,12 +1,8 @@
 # Cassava Leaf Disease Detection - Image Classification
 
-**Complete Video Tutorial:** https://youtu.be/R7fKjr4gtSc
-
 # Project Information
 
 The objective is to distinguish between several diseases that cause material harm to the food supply of many African countries. In some cases the main remedy is to burn the infected plants to prevent further spread, which can make a rapid automated turnaround quite useful to the farmers.
-
-[train/test]_images the image files. The full set of test images will only be available to your notebook when it is submitted for scoring. Expect to see roughly 15,000 images in the test set.
 
 ### Attributes
 
